@@ -20,4 +20,4 @@ Outputs by the FSM:-
 The only output by the FSM is the Dispense control signals of each product.
 
 State Diagram:-
-![State Diagram](images/state_diagram.jpeg)
+<img src="images/state_diagram.jpeg" width="400">
