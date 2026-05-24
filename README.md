@@ -3,7 +3,7 @@ Simple Vending Machine FSM made using Verilog.
 
 This is my first attempt of doing something on my own in Verilog. 
 
-##Inputs and Outputs:
+## Inputs and Outputs:
 
 ### Inputs to the FSM:-
 #### User inputs:-
