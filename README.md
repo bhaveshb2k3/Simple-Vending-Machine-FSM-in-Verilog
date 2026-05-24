@@ -23,9 +23,9 @@ The FSM outputs signals required for product dispense.
 </p>
 
 The states are - 
-S0 - Idle
-S1, S2, S3 - Product selected, awaiting payment
-S4, S5, S6 - Dispensing product
+- S0 - Idle
+- S1, S2, S3 - Product selected, awaiting payment
+- S4, S5, S6 - Dispensing product
 
 
 ## Instructions to simulate FSM
